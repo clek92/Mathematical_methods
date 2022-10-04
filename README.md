@@ -1,2 +1,2 @@
 # Mathematical_methods
-University assignments on business analytics 
+University assignment on business analytics 

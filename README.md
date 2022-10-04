@@ -1,7 +1,8 @@
 # Mathematical_methods
-University assignment on business analytics <br>
+University assignment on mathematical methods for business analytics <br>
 The goal of the project was to conduct an analysis about the loan applicants <br>
 The focus is mostly given on the mathematical aspects of the analysis and there are some limitations about the amount of variables and the techniques <br>
+The dataset used is the lender club dataset found in kaggle <br>
 **Limitations**
 1) No more than 10 variables in the first part 
 2) No more than 5 variables in the second part (1 dependent and 4 independent) <br>
